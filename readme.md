@@ -41,7 +41,7 @@ void loop() {
 
 > 該程式引用自先前專案
 [在此處了解如何建立電子郵件端點。](https://gtrx8fd3ds.gitbook.io/thinger-io/console#email-endpoint)
-![大麻的啦!](https://photo.orsoon.com/180623/JPG-180623A_313/319y5jnd2q_small.jpg)
+![大麻的啦!](weed.jpg)
 - [] 100g
 - [x] 500g
 
